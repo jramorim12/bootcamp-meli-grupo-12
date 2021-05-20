@@ -1,6 +1,6 @@
 # Mercado Libre Bootcamp
 
-Basic Java exercises.
+Java basic exercises.
 
 ## Copyright and license
 
