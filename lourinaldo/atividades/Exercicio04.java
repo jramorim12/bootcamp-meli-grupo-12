@@ -1,9 +1,7 @@
-package atividades;
-
 import java.util.Scanner;
 
 
-public class Exercicio03 {
+public class Exercicio04 {
 
     public static boolean ehPrimo(int n){
 
@@ -20,13 +18,12 @@ public class Exercicio03 {
         System.out.println("Insira o valor de n:");
         n = keyboard.nextInt();
 
-        boolean b = ehPrimo(n);
 
-        if(b){
-            System.out.println("Eh primo");
-        }else{
-            System.out.println("Não eh primo");
+        for(int i=2;n>0;i++){
+            if(ehPrimo(i)) {
+                System.out.println(i);
+                n--;
+            }
         }
-
     }
 }
