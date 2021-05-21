@@ -6,7 +6,7 @@ import java.util.stream.Stream;
 
 // TODO: profile non-parallel vs parallel streams.
 
-public class RadixSort {
+public class Exercise21 {
   public static void sort(List<Integer> list) {
     int maximumLength = Collections
       .max(list)
@@ -25,7 +25,7 @@ public class RadixSort {
     for (int i = maximumLength - 1; i >= 0; i--) {
       final int pivot = i;
 
-      Map<Character, List<String>> groups = items
+      items = items
         .stream()
         .parallel()
         .collect(Collectors
@@ -35,9 +35,7 @@ public class RadixSort {
             (element0, element1) -> Stream
               .concat(element0.stream(), element1.stream())
               .collect(Collectors.toList()),
-            TreeMap::new));
-
-      items = groups
+            TreeMap::new))
         .values()
         .stream()
         .parallel()
