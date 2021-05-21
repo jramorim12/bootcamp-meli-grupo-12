@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bootcamp-meli-pratica-java.iml" filepath="$PROJECT_DIR$/bootcamp-meli-pratica-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/danilo/danilo.iml" filepath="$PROJECT_DIR$/danilo/danilo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lourinaldo/lourinaldo.iml" filepath="$PROJECT_DIR$/lourinaldo/lourinaldo.iml" />
+    </modules>
+  </component>
+</project>
