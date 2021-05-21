@@ -94,6 +94,7 @@ public class Exercise13 {
 
     double totalPrice = products
       .stream()
+      .parallel()
       .map(Product::getTotalPrice)
       .reduce(0.0, Double::sum);
 
