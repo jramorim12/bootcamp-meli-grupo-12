@@ -25,6 +25,7 @@ Crie a classe Celular, com os atributos: number e holder, implemente Precedente<
 ### Saída
 
 
+	|-------- Com Pessoas ----------|
 	|-------- Lista origianal ----------|
 	Pessoa{cpf='01676512471', nome='Jose'}
 	Pessoa{cpf='01676512472', nome='Paulo'}
@@ -44,5 +45,27 @@ Crie a classe Celular, com os atributos: number e holder, implemente Precedente<
 	Pessoa{cpf='01676512476', nome='Julia'}
 	Pessoa{cpf='01676512472', nome='Paulo'}
 
+
+	|-------- Com celulares ----------|
+	|-------- Lista Ordenada ----------|
+	Celular{number='83 98744254', holder='Jose'}
+	Celular{number='83 98744254', holder='Paulo'}
+	Celular{number='83 98744251', holder='Gustavo'}
+	Celular{number='83 98744253', holder='Gustavo'}
+	Celular{number='83 98744252', holder='Gustavo'}
+	Celular{number='83 98744254', holder='Henrique'}
+	Celular{number='83 98744254', holder='Ernest'}
+	Celular{number='83 98744254', holder='Julia'}
+	|-------- Lista Ordenada ----------|
+	Celular{number='83 98744254', holder='Ernest'}
+	Celular{number='83 98744251', holder='Gustavo'}
+	Celular{number='83 98744252', holder='Gustavo'}
+	Celular{number='83 98744253', holder='Gustavo'}
+	Celular{number='83 98744254', holder='Henrique'}
+	Celular{number='83 98744254', holder='Jose'}
+	Celular{number='83 98744254', holder='Julia'}
+	Celular{number='83 98744254', holder='Paulo'}
+
 	Process finished with exit code 0
+
 
