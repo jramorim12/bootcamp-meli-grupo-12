@@ -1,0 +1,16 @@
+spring:
+  webflux:
+    base-path: /api/v1
+
+server:
+  port: 8080
+
+api:
+  version: v1
+  squareMeterPrice: 800
+
+springdoc:
+  api-docs:
+    path: /openapi
+  swagger-ui:
+    path: /docs

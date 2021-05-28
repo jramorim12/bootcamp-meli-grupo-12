@@ -36,6 +36,6 @@ public class APIExceptionHandler {
   public ResponseEntity<ErrorResponse> handleInternalServerError(RuntimeException exception) {
     return ResponseEntity
       .status(HttpStatus.INTERNAL_SERVER_ERROR)
-      .body(new ErrorResponse("Internal server error."));
+      .body(new ErrorResponse(exception.getMessage()));
   }
 }

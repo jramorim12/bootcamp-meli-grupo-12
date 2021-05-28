@@ -25,13 +25,6 @@ public class APIExceptionHandler {
           "Bad request."));
   }
 
-  @ExceptionHandler(IllegalArgumentException.class)
-  public ResponseEntity<ErrorResponse> handleInternalBadRequest(IllegalArgumentException exception) {
-    return ResponseEntity
-      .status(HttpStatus.BAD_REQUEST)
-      .body(new ErrorResponse(exception.getMessage()));
-  }
-
   @ExceptionHandler(RuntimeException.class)
   public ResponseEntity<ErrorResponse> handleInternalServerError(RuntimeException exception) {
     return ResponseEntity

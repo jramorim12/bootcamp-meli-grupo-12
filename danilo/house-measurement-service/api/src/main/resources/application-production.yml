@@ -1,0 +1,16 @@
+spring:
+  webflux:
+    base-path: /api/${API_VERSION}
+
+server:
+  port: ${API_PORT}
+
+api:
+  version: ${API_VERSION}
+  squareMeterPrice: ${API_SQUARE_METER_PRICE}
+
+springdoc:
+  api-docs:
+    path: /openapi
+  swagger-ui:
+    path: /docs

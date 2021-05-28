@@ -23,14 +23,14 @@ public class OpenAPIConfiguration {
           .type(SecurityScheme.Type.HTTP)
           .scheme("basic")))
       .info(new Info()
-        .title("Morse API")
-        .description("Morse translation API.")
+        .title("Grade API")
+        .description("Student grade API.")
         .version(this.configuration.getVersion())
         .contact(new Contact()
           .name("Danilo Peixoto Ferreira")
           .email("danilo.peixoto@mercadolivre.com"))
         .license(new License()
           .name("BSD-3-Clause")
-          .url("https://github.com/jramorim12/bootcamp-meli-pratica-java/tree/master/danilo/morse-service")));
+          .url("https://github.com/jramorim12/bootcamp-meli-pratica-java/tree/master/danilo/grade-service")));
   }
 }
