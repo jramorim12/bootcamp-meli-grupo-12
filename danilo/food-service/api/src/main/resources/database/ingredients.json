@@ -1,0 +1,1532 @@
+[
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Aceitunas negras",
+    "calories": 349
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Aceitunas verdes",
+    "calories": 132
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Acelgas",
+    "calories": 33
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Ajos",
+    "calories": 169
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Alcachofas",
+    "calories": 64
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Apio",
+    "calories": 20
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Berenjena",
+    "calories": 29
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Berros",
+    "calories": 21
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Brócoli",
+    "calories": 31
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Calabacín",
+    "calories": 31
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Calabaza",
+    "calories": 24
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Cebolla",
+    "calories": 47
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Cebolla tierna",
+    "calories": 39
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Champiñón y otras setas",
+    "calories": 28
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Col",
+    "calories": 28
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Col de Bruselas",
+    "calories": 54
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Coliflor",
+    "calories": 30
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Endibia",
+    "calories": 22
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Escarola",
+    "calories": 37
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Espárragos",
+    "calories": 26
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Espárragos en lata",
+    "calories": 24
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Espinaca",
+    "calories": 32
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Espinacas congeladas",
+    "calories": 25
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Habas tiernas",
+    "calories": 64
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Hinojo",
+    "calories": 16
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Lechuga",
+    "calories": 18
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Nabos",
+    "calories": 29
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Papas cocidas",
+    "calories": 86
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Pepino",
+    "calories": 12
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Perejil",
+    "calories": 55
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Pimiento",
+    "calories": 22
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Porotos verdes",
+    "calories": 21
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Puerros",
+    "calories": 42
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Rábanos",
+    "calories": 20
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Remolacha",
+    "calories": 40
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Repollo",
+    "calories": 19
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Rúcula",
+    "calories": 37
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Soja, Brotes de",
+    "calories": 50
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Tomate triturado en conserva",
+    "calories": 39
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Tomates",
+    "calories": 22
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Trufa",
+    "calories": 92
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Zanahoria",
+    "calories": 42
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Zumo de tomate",
+    "calories": 21
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Arándanos",
+    "calories": 41
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Caqui",
+    "calories": 64
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Cereza",
+    "calories": 47
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Chirimoya",
+    "calories": 78
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Ciruela",
+    "calories": 44
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Ciruela seca",
+    "calories": 290
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Coco",
+    "calories": 646
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Dátil",
+    "calories": 279
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Dátil seco",
+    "calories": 306
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Frambuesa",
+    "calories": 40
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Fresas",
+    "calories": 36
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Granada",
+    "calories": 65
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Grosella",
+    "calories": 37
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Higos",
+    "calories": 80
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Higos secos",
+    "calories": 275
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Kiwi",
+    "calories": 51
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Limón",
+    "calories": 39
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Mandarina",
+    "calories": 40
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Mango",
+    "calories": 57
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Manzana",
+    "calories": 52
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Melón",
+    "calories": 31
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Mora",
+    "calories": 37
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Naranja",
+    "calories": 44
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Nectarina",
+    "calories": 64
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Nísperos",
+    "calories": 97
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Papaya",
+    "calories": 45
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Pera",
+    "calories": 61
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Piña",
+    "calories": 51
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Piña en almíbar",
+    "calories": 84
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Plátano",
+    "calories": 90
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Pomelo",
+    "calories": 30
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Sandía",
+    "calories": 30
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Uva",
+    "calories": 81
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Uva pasa",
+    "calories": 324
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Zumo de fruta",
+    "calories": 45
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Zumo de Naranja",
+    "calories": 42
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Almendras",
+    "calories": 620
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Avellanas",
+    "calories": 675
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Castañas",
+    "calories": 199
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Maní",
+    "calories": 560
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Nueces",
+    "calories": 660
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Piñones",
+    "calories": 660
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Pistacho",
+    "calories": 581
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Cuajada",
+    "calories": 92
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Flan de huevo",
+    "calories": 126
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Flan de vainilla",
+    "calories": 102
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Helados lácteos",
+    "calories": 167
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Leche condensada c/azúcar",
+    "calories": 350
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Leche condensada s/azúcar",
+    "calories": 160
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Leche de cabra",
+    "calories": 72
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Leche de oveja",
+    "calories": 96
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Leche descremada",
+    "calories": 36
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Leche en polvo descremada",
+    "calories": 373
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Leche en polvo entera",
+    "calories": 500
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Leche entera",
+    "calories": 68
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Leche semi descremada",
+    "calories": 49
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Mousse",
+    "calories": 177
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Nata o crema de leche",
+    "calories": 298
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Queso blanco desnatado",
+    "calories": 70
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Queso Brie",
+    "calories": 263
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Queso cammembert",
+    "calories": 312
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Queso cheddar",
+    "calories": 381
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Queso crema",
+    "calories": 245
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Queso de bola",
+    "calories": 349
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Queso de Burgos",
+    "calories": 174
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Queso de oveja",
+    "calories": 245
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Queso edam",
+    "calories": 306
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Queso emmental",
+    "calories": 415
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Queso fundido untable",
+    "calories": 285
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Queso gruyere",
+    "calories": 391
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Queso manchego",
+    "calories": 376
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Queso mozzarella",
+    "calories": 245
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Queso parmesano",
+    "calories": 393
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Queso ricota",
+    "calories": 400
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Queso roquefort",
+    "calories": 405
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Requesón",
+    "calories": 96
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Yogur desnatado",
+    "calories": 45
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Yogur desnatado con frutas",
+    "calories": 82
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Yogur enriquecido con nata",
+    "calories": 65
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Yogur natural",
+    "calories": 62
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Yogur natural con fruta",
+    "calories": 100
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Bacon (Panceta ahumada)",
+    "calories": 665
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Butifarra cocida",
+    "calories": 390
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Butifarra, salchicha fresca",
+    "calories": 326
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Cabrito",
+    "calories": 127
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Cerdo, chuleta",
+    "calories": 330
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Cerdo, hígado",
+    "calories": 153
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Cerdo, lomo",
+    "calories": 208
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Chicharrón",
+    "calories": 601
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Chorizo",
+    "calories": 468
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Ciervo",
+    "calories": 120
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Codorniz y perdiz",
+    "calories": 114
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Conejo, liebre",
+    "calories": 162
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Cordero lechón",
+    "calories": 105
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Cordero pierna",
+    "calories": 98
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Cordero, costillas",
+    "calories": 215
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Cordero, hígado",
+    "calories": 132
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Faisán",
+    "calories": 144
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Foie-Gras",
+    "calories": 518
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Gallina",
+    "calories": 369
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Hamburguesa",
+    "calories": 230
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Jabalí",
+    "calories": 107
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Jamón",
+    "calories": 380
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Jamón cocido",
+    "calories": 126
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Jamón crudo",
+    "calories": 296
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Jamón York",
+    "calories": 289
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Lengua de vaca",
+    "calories": 191
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Lomo embuchado",
+    "calories": 380
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Mortadela",
+    "calories": 265
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Pato",
+    "calories": 200
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Pavo, Muslo",
+    "calories": 186
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Pavo, Pechuga",
+    "calories": 134
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Perdiz",
+    "calories": 120
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Pies de cerdo",
+    "calories": 290
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Pollo, Hígado",
+    "calories": 129
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Pollo, Muslo",
+    "calories": 186
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Pollo",
+    "calories": 134
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Salami",
+    "calories": 325
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Salchicha Frankfurt",
+    "calories": 315
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Salchichón",
+    "calories": 294
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Ternera",
+    "calories": 181
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Ternera, chuleta",
+    "calories": 168
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Ternera, hígado",
+    "calories": 140
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Ternera, lengua",
+    "calories": 207
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Ternera, riñón",
+    "calories": 86
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Ternera, sesos",
+    "calories": 125
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Ternera, solomillo",
+    "calories": 290
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Tira de asado",
+    "calories": 401
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Tripas",
+    "calories": 100
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Vacuno, Hígado",
+    "calories": 129
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Almejas",
+    "calories": 50
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Anchoas",
+    "calories": 175
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Anguilas",
+    "calories": 200
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Atún en lata con aceite vegetal",
+    "calories": 280
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Atún en lata con agua",
+    "calories": 127
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Atún fresco",
+    "calories": 225
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Bacalao fresco",
+    "calories": 74
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Bacalao seco",
+    "calories": 322
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Besugo",
+    "calories": 118
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Caballa",
+    "calories": 153
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Calamar",
+    "calories": 82
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Cangrejo",
+    "calories": 85
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Caviar",
+    "calories": 233
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Congrio",
+    "calories": 112
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Dorada",
+    "calories": 80
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Gallo",
+    "calories": 73
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Gambas",
+    "calories": 96
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Langosta",
+    "calories": 67
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Langostino",
+    "calories": 96
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Lenguado",
+    "calories": 73
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Lubina",
+    "calories": 118
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Lucio",
+    "calories": 81
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Mejillón",
+    "calories": 74
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Merluza",
+    "calories": 86
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Mero",
+    "calories": 118
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Ostras",
+    "calories": 80
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Pejerrey",
+    "calories": 87
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Pez espada",
+    "calories": 109
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Pulpo",
+    "calories": 57
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Rodaballo",
+    "calories": 81
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Salmón",
+    "calories": 172
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Salmón ahumado",
+    "calories": 154
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Salmonete",
+    "calories": 97
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Sardina en lata con aceite vegetal",
+    "calories": 192
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Sardinas",
+    "calories": 151
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Trucha",
+    "calories": 94
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Azúcar",
+    "calories": 380
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Cacao en polvo con azúcar instantáneo",
+    "calories": 366
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Caramelos",
+    "calories": 378
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Chocolate con leche",
+    "calories": 550
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Chocolate sin leche",
+    "calories": 530
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Crema chocolate con avellanas",
+    "calories": 549
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Dulce de membrillo",
+    "calories": 215
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Helados de agua",
+    "calories": 139
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Mermeladas con azúcar",
+    "calories": 280
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Mermeladas sin azúcar",
+    "calories": 145
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Miel",
+    "calories": 300
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Arroz blanco",
+    "calories": 354
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Arroz integral",
+    "calories": 350
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Avena",
+    "calories": 367
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Cebada",
+    "calories": 373
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Centeno",
+    "calories": 350
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Cereales con chocolate",
+    "calories": 358
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Cereales desayuno, con miel",
+    "calories": 386
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Copos de maíz",
+    "calories": 350
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Harina de maíz",
+    "calories": 349
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Harina de trigo integral",
+    "calories": 340
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Harina de trigo refinada",
+    "calories": 353
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Pan de centeno",
+    "calories": 241
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Pan de trigo blanco",
+    "calories": 255
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Pan de trigo integral",
+    "calories": 239
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Pan de trigo molde blanco",
+    "calories": 233
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Pan de trigo molde integral",
+    "calories": 216
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Pasta al huevo",
+    "calories": 368
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Pasta de sémola",
+    "calories": 361
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Polenta",
+    "calories": 358
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Sémola de trigo",
+    "calories": 368
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Yuca",
+    "calories": 338
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Garbanzos",
+    "calories": 361
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Judías",
+    "calories": 343
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Lentejas",
+    "calories": 336
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Clara",
+    "calories": 48
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Huevo duro",
+    "calories": 147
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Huevo entero",
+    "calories": 162
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Yema",
+    "calories": 368
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Bizcocho",
+    "calories": 456
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Croissant chocolate",
+    "calories": 469
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Croissant, donut",
+    "calories": 456
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Galletas de chocolate",
+    "calories": 524
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Galletas de mantequilla tipo “Danesas”",
+    "calories": 397
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Galletas saladas",
+    "calories": 464
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Magdalenas",
+    "calories": 469
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Pasta de hojaldre cocida",
+    "calories": 565
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Pastel de manzana",
+    "calories": 311
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Pastel de manzana, masa hojaldre",
+    "calories": 456
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Pastel de queso",
+    "calories": 414
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Agua ardiente",
+    "calories": 280
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Agua tónica",
+    "calories": 34
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Anís",
+    "calories": 312
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Batido lácteo de cacao",
+    "calories": 100
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Cacao en polvo sin azúcar a la taza",
+    "calories": 439
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Café",
+    "calories": 1
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Cerveza negra",
+    "calories": 37
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Cerveza rubia",
+    "calories": 45
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Champaña demi-sec",
+    "calories": 90
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Champaña dulce",
+    "calories": 118
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Champaña seca",
+    "calories": 85
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Coñac, brandy",
+    "calories": 243
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Crema de cacao",
+    "calories": 260
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Daiquiri",
+    "calories": 122
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Gin & Tónica",
+    "calories": 76
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Ginebra",
+    "calories": 244
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Leche de almendras",
+    "calories": 335
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Licor de caña",
+    "calories": 273
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Piña colada",
+    "calories": 194
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Pisco",
+    "calories": 210
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Refrescos carbonatados",
+    "calories": 48
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Ron",
+    "calories": 244
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Sidra dulce",
+    "calories": 33
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Sidra seca",
+    "calories": 35
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Té",
+    "calories": 1
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Vermouth amargo",
+    "calories": 112
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Vermouth dulce",
+    "calories": 160
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Vino de mesa",
+    "calories": 70
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Vino dulce, jerez",
+    "calories": 160
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Vino oporto",
+    "calories": 160
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Vodka",
+    "calories": 315
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Whisky",
+    "calories": 244
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Aceite de girasol",
+    "calories": 900
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Aceite de oliva",
+    "calories": 900
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Manteca",
+    "calories": 670
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Mantequilla",
+    "calories": 752
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Margarina vegetal",
+    "calories": 752
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Bechamel",
+    "calories": 115
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Caldos concentrados",
+    "calories": 259
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Ketchup",
+    "calories": 98
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Mayonesa",
+    "calories": 718
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Mayonesa light",
+    "calories": 374
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Mostaza",
+    "calories": 15
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Salsa de soja",
+    "calories": 61
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Salsa de tomate en conserva",
+    "calories": 86
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Sofrito",
+    "calories": 116
+  },
+  {
+    "_class": "com.danilopeixoto.api.model.IngredientModel",
+    "name": "Vinagres",
+    "calories": 8
+  }
+]

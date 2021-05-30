@@ -1,0 +1,16 @@
+spring:
+  webflux:
+    base-path: /api/v1
+
+server:
+  port: 8080
+
+api:
+  version: v1
+  database-path: database/movies.json
+
+springdoc:
+  api-docs:
+    path: /openapi
+  swagger-ui:
+    path: /docs
