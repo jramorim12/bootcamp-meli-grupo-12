@@ -1,0 +1,18 @@
+spring:
+  webflux:
+    base-path: /api/${API_VERSION}
+
+server:
+  port: ${API_PORT}
+
+api:
+  hostname: ${API_HOSTNAME}
+  port: ${API_PORT}
+  secure: ${API_SECURE}
+  version: ${API_VERSION}
+
+springdoc:
+  api-docs:
+    path: /openapi
+  swagger-ui:
+    path: /docs

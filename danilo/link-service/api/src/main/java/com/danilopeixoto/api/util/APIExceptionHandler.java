@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.RestControllerAdvice;
 import org.springframework.web.bind.support.WebExchangeBindException;
 import org.springframework.web.server.ServerWebInputException;
 
+import java.util.NoSuchElementException;
 import java.util.Objects;
 
 @RestControllerAdvice
@@ -23,6 +24,20 @@ public class APIExceptionHandler {
               .getFieldError())
             .getDefaultMessage() :
           "Bad request."));
+  }
+
+  @ExceptionHandler(IllegalAccessException.class)
+  public ResponseEntity<ErrorResponseModel> handleUnauthorized(IllegalAccessException exception) {
+    return ResponseEntity
+      .status(HttpStatus.UNAUTHORIZED)
+      .body(new ErrorResponseModel(exception.getMessage()));
+  }
+
+  @ExceptionHandler(NoSuchElementException.class)
+  public ResponseEntity<ErrorResponseModel> handleNotFound(NoSuchElementException exception) {
+    return ResponseEntity
+      .status(HttpStatus.NOT_FOUND)
+      .body(new ErrorResponseModel(exception.getMessage()));
   }
 
   @ExceptionHandler(RuntimeException.class)
