@@ -1,0 +1,16 @@
+spring:
+  webflux:
+    base-path: /api/${API_VERSION}
+
+server:
+  port: ${API_PORT}
+
+api:
+  version: ${API_VERSION}
+  grade_approved_threshold: ${API_GRADE_APPROVED_THRESHOLD}
+
+springdoc:
+  api-docs:
+    path: /openapi
+  swagger-ui:
+    path: /docs
