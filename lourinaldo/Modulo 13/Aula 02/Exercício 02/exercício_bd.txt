@@ -1,4 +1,4 @@
-1 - Normalização é um processo que visa estrutura um banco de dados, afim de eliminar falhas no projeto e redundância de dados.
+1 - Normalização é um conjunto de regras que otimiza a estruturação do banco de dados, afim de eliminar falhas no projeto e redundância de dados.
 
 2 - INSERT INTO movies(title, rating, awards, release_date, length, genre_id) values('Nome do filme inserido', 9, 1, '2021-05-01', 160 ,2)
 
@@ -24,7 +24,7 @@
       HAVING movies.awards > 3
       ORDER BY movies.awards DESC
 
-11 - O índice é um ferramenta que permite a realização de queries de maneira mais rápida.
+11 - O índice é uma referencia a uma coluna de uma tabela, que permite a realização de queries de maneira mais rápida.
 
 12 - CREATE UNIQUE INDEX title ON movies(title);
 
