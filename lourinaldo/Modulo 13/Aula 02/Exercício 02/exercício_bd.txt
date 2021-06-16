@@ -1,0 +1,31 @@
+1 - Normalização é um processo que visa estrutura um banco de dados, afim de eliminar falhas no projeto e redundância de dados.
+
+2 - INSERT INTO movies(title, rating, awards, release_date, length, genre_id) values('Nome do filme inserido', 9, 1, '2021-05-01', 160 ,2)
+
+3 - INSERT INTO genres(name, ranking, active) values('Gênero', 13, 1)
+
+4 - UPDATE movies SET genre_id = 13 WHERE id = 22	
+
+5 - UPDATE actors SET favorite_movie_id = 2 WHERE id = 3
+
+6 - CREATE TEMPORARY TABLE temp_movies SELECT * FROM movies
+
+7 - DELETE FROM temp_movies WHERE awards < 5 
+
+8 - SELECT genres.name, count(movies.genre_id) as 'Número de Filmes' FROM genres
+     INNER JOIN movies ON movies.genre_id = genres.id
+     GROUP BY genres.name
+     HAVING count(movies.genre_id) > 0
+     ORDER BY name ASC
+
+9 - SELECT concat(actors.first_name, ' ', actors.last_name) as Actor, movies.title as 'Filme favorito', 
+      movies.awards FROM actors
+      INNER JOIN movies ON movies.id = actors.favorite_movie_id
+      HAVING movies.awards > 3
+      ORDER BY movies.awards DESC
+
+11 - O índice é um ferramenta que permite a realização de queries de maneira mais rápida.
+
+12 - CREATE UNIQUE INDEX title ON movies(title);
+
+13 - SHOW INDEX FROM movies 
