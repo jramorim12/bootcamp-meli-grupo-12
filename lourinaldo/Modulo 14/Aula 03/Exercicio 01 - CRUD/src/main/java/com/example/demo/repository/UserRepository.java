@@ -12,15 +12,24 @@ import java.util.List;
 @Transactional
 public interface UserRepository extends JpaRepository<UserModel, Long> {
 
-    @Query("select u from UserModel u where u.userName like :name order by u.userName")
+    @Query(value = "select * from user", nativeQuery = true)
+    List<UserModel> findAll();
+
+    @Query(value = "select * from user where user.id = :id", nativeQuery = true)
+    UserModel findById(@Param("id") long id);
+
+    @Query(value = "select * from user where user.user_name like :name order by user.user_name", nativeQuery = true)
     List<UserModel> findUserByName(@Param("name") String name);
 
+    @Query(value = "insert into user value(password=:password, user_name = :name)", nativeQuery = true)
+    UserModel save(@Param("password") String password, @Param("name") String name);
+
     @Modifying
-    @Query("update UserModel u set u.password = :password where u.id = :id")
+    @Query(value = "update user set user.password = :password where user.id = :id", nativeQuery = true)
     void updateUser(@Param("password") String password, @Param("id") long id);
 
     @Modifying
-    @Query("delete UserModel u where u.id = :id")
+    @Query(value = "delete from user where user.id = :id", nativeQuery = true)
     void deleteUser(@Param("id") long id);
 
 }

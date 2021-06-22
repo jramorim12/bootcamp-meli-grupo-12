@@ -20,7 +20,7 @@ public class UserService {
         return (ArrayList<UserModel>) userRepository.findAll();
     }
 
-    public UserModel findUserById(long id){return userRepository.findById(id).orElse(null);}
+    public UserModel findUserById(long id){return userRepository.findById(id);}
 
     public ArrayList<UserModel> findUsersByName(String name){
         return (ArrayList<UserModel>) userRepository.findUserByName(name);
